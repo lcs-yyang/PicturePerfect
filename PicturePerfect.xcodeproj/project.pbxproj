@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0E11DF7420AB508800A4CDF9 /* Picture Perfect.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Picture Perfect.pdf"; sourceTree = "<group>"; };
+		0E11DF7820AB5A3B00A4CDF9 /* Picture Perfect.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Picture Perfect.pdf"; path = "../../../../../Volumes/GoogleDrive/My Drive/_ICS3U 2017-18/Course Materials/End of year evaluations/Culminating Task Prep/Cleaned up/Arithmetic/Picture Perfect.pdf"; sourceTree = "<group>"; };
 		0E4F377620750C2400E1C552 /* PicturePerfect */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PicturePerfect; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E4F377920750C2500E1C552 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8134C28620A469D4002EFBB0 /* Test Plan.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Test Plan.txt"; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				0E4F377920750C2500E1C552 /* main.swift */,
-				0E11DF7420AB508800A4CDF9 /* Picture Perfect.pdf */,
+				0E11DF7820AB5A3B00A4CDF9 /* Picture Perfect.pdf */,
 				8134C28620A469D4002EFBB0 /* Test Plan.txt */,
 			);
 			path = PicturePerfect;

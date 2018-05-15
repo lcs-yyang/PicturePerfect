@@ -30,7 +30,11 @@ for counter in 1...countOfPhotoArrangementsToBeConsidered {
         continue
     }
     
-    // Implement the rest of the logic for the program here
+    // What was provided?
+    print("The given input was: \(givenInput)")
+    
+    // Implement the rest of your logic here...
+
 
 }
 

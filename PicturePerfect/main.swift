@@ -13,12 +13,11 @@ var countOfPhotoArrangementsToBeConsidered = 3
 // e.g.: write the rest of the INPUT section
 
 
-
 // PROCESS & OUTPUT
 // Implement the primary logic of the problem here
 // Some output may be given here if you desire
 
-// Example of how to collect multiple input lines
+// Collect the number of pictures in each arrangement using this loop
 for counter in 1...countOfPhotoArrangementsToBeConsidered {
     
     // Ask how many pictures in this particular arrangement

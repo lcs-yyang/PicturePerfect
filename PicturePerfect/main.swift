@@ -9,7 +9,8 @@ import Foundation
 // Global variable to use later in program
 var photoArrangementsToBeConsidered = 3
 
-// PROCESS
+
+// PROCESS & OUTPUT
 // Implement the primary logic of the problem here
 // Some output may be given here if you desire
 
@@ -26,12 +27,7 @@ for counter in 1...photoArrangementsToBeConsidered {
         continue
     }
     
-    // Now we have the line, we can print it out, analyze it as needed, et cetera
-    print(givenInput)
-    
+    // Implement the rest of the logic for the program here
+
 }
-
-// OUTPUT
-// Report results to the user here
-
 

@@ -14,9 +14,10 @@ var photoArrangementsToBeConsidered = 3
 // Some output may be given here if you desire
 
 // Example of how to collect multiple input lines
-
-print("How many pictures in photo arrangement #\(photoArrangementsToBeConsidered)?")
-for _ in 1...photoArrangementsToBeConsidered {
+for counter in 1...photoArrangementsToBeConsidered {
+    
+    // Ask how many pictures in this particular arrangement
+    print("How many pictures in photo arrangement #\(counter)?")
     
     // Get the input (use guard-let to guarantee it is not nil)
     // and then print it out

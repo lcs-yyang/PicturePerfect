@@ -9,6 +9,10 @@ import Foundation
 // Global variable to use later in program
 var countOfPhotoArrangementsToBeConsidered = 3
 
+// Write a loop to actually collect the number of photo arrangements to be considered
+// e.g.: write the rest of the INPUT section
+
+
 
 // PROCESS & OUTPUT
 // Implement the primary logic of the problem here
